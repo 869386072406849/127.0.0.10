@@ -1,5 +1,699 @@
 # 127.0.0.10
 
+ข้ามไปยังเนื้อหา
+ประกาศ: หากคุณประสบปัญหาเกี่ยวกับการอัปเดตล่าสุด โปรดอ่านบทความแก้ไขปัญหาล่าสุดในบล็อก
+EmuDeck Wiki
+RetroArch บน SteamOS
+
+ อีมูเด็ค.github.io
+146
+43
+โลโก้EmuDeck Wiki
+บ้าน
+เกี่ยวกับ
+เว็บไซต์ EmuDeck
+EmuDeck GitHub
+EmuDeck Wiki GitHub
+ดิสคอร์ด EmuDeck
+บล็อก EmuDeck
+คู่มือสรุปคำสั่ง BIOS และ ROM
+ปุ่มลัด
+ฐานข้อมูลความเข้ากันได้ของเกมชุมชน
+คลาวด์ซิงค์
+การบริจาค
+วิธีการติดตั้ง EmuDeck
+วิธีการติดตั้ง EmuDeck
+EmuDeck สำหรับ SteamOS
+EmuDeck สำหรับ SteamOS
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับลินุกซ์
+อีมูเด็คสำหรับลินุกซ์
+คำถามที่พบบ่อย
+คำถามที่พบบ่อย
+EmuDeck สำหรับ SteamOS
+EmuDeck สำหรับ SteamOS
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับลินุกซ์
+อีมูเด็คสำหรับลินุกซ์
+ปัญหาที่พบ
+ปัญหาที่พบ
+EmuDeck สำหรับ SteamOS
+EmuDeck สำหรับ SteamOS
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับลินุกซ์
+อีมูเด็คสำหรับลินุกซ์
+การแก้ไขปัญหา
+การแก้ไขปัญหา
+EmuDeck สำหรับ SteamOS
+EmuDeck สำหรับ SteamOS
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับลินุกซ์
+อีมูเด็คสำหรับลินุกซ์
+การบำรุงรักษา EmuDeck
+การบำรุงรักษา EmuDeck
+กำลังอัปเดตบน SteamOS
+การอัปเดตบน Windows
+การควบคุมและปุ่มลัด
+การควบคุมและปุ่มลัด
+EmuDeck สำหรับ SteamOS
+EmuDeck สำหรับ SteamOS
+การควบคุมเบื้องต้น 101
+ปุ่มลัด
+ตัวควบคุมภายนอก
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับ Windows
+การควบคุมเบื้องต้น 101
+ปุ่มลัด
+แอปพลิเคชัน EmuDeck
+แอปพลิเคชัน EmuDeck
+EmuDeck สำหรับ SteamOS
+EmuDeck สำหรับ SteamOS
+การใช้งาน EmuDeck เบื้องต้น
+ร้านค้า EmuDeck
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับ Windows
+การใช้งาน EmuDeck เบื้องต้น
+เครื่องมือ
+เครื่องมือ
+บริการคลาวด์
+บริการคลาวด์
+บริการคลาวด์บน SteamOS
+เอส-เยอรมัน
+เอส-เยอรมัน
+ES-DE บน SteamOS
+ES-DE บน Windows
+ตัวจัดการ ROM ของ Steam
+ตัวจัดการ ROM ของ Steam
+โปรแกรมจัดการ ROM ของ Steam บน SteamOS
+โปรแกรมจัดการ ROM Steam บน Windows
+เพกาซัส
+เพกาซัส
+Pegasus บน SteamOS
+เพกาซัสบน Windows
+เครื่องมือการนำเข้าและส่งออก
+เครื่องมือการนำเข้าและส่งออก
+เครื่องมือการนำเข้าและส่งออกบน SteamOS
+โปรแกรมจำลอง
+โปรแกรมจำลอง
+โปรแกรมจำลองที่รองรับ
+โปรแกรมจำลองที่รองรับ
+โปรแกรมจำลองที่รองรับบน SteamOS
+โปรแกรมจำลองที่รองรับบน Windows
+BigPEmu (Atari Jaguar)
+BigPEmu (Atari Jaguar)
+BigPEmu บน SteamOS
+เซมู (Wii U)
+เซมู (Wii U)
+Cemu บน SteamOS
+Cemu บน Windows
+Citra (Nintendo 3DS)
+Citra (Nintendo 3DS)
+Citra บน SteamOS
+Citra บน Windows
+Dolphin (GameCube และ Wii)
+Dolphin (GameCube และ Wii)
+Dolphin บน SteamOS
+Dolphin บน Windows
+DuckStation (PlayStation 1)
+DuckStation (PlayStation 1)
+DuckStation บน SteamOS
+DuckStation บน Windows
+ฟลายแคสต์ (ดรีมแคสต์)
+ฟลายแคสต์ (ดรีมแคสต์)
+Flycast บน SteamOS
+เอ็มอีเอ็ม
+เอ็มอีเอ็ม
+MAME บน SteamOS
+melonDS (Nintendo DS) (สแตนด์อโลน)
+melonDS (Nintendo DS) (สแตนด์อโลน)
+melonDS บน SteamOS
+melonDS บน Windows
+mGBA (GB, GBC และ GBA) (สแตนด์อโลน)
+mGBA (GB, GBC และ GBA) (สแตนด์อโลน)
+mGBA บน SteamOS
+โปรแกรมจำลองเกม Model 2 (Sega Model 2)
+โปรแกรมจำลองเกม Model 2 (Sega Model 2)
+โปรแกรมจำลอง Model 2 บน SteamOS
+PCSX2 (PlayStation 2)
+PCSX2 (PlayStation 2)
+PCSX2 บน SteamOS
+PCSX2 บน Windows
+PPSSPP (PlayStation Portable) (แบบสแตนด์อโลน)
+PPSSPP (PlayStation Portable) (แบบสแตนด์อโลน)
+PPSSPP บน SteamOS
+PPSSPP บน Windows
+ไพรม์แฮ็ค
+ไพรม์แฮ็ค
+PrimeHack บน SteamOS
+เรโทรอาร์ช
+เรโทรอาร์ช
+RetroArch บน SteamOS
+RetroArch บน Windows
+Rosalie's Mupen GUI (Nintendo 64) (แบบสแตนด์อโลน)
+Rosalie's Mupen GUI (Nintendo 64) (แบบสแตนด์อโลน)
+GUI Mupen ของ Rosalie บน SteamOS
+RPCS3 (PlayStation 3)
+RPCS3 (PlayStation 3)
+RPCS3 บน SteamOS
+RPCS3 บน Windows
+Ryujinx (Nintendo Switch)
+Ryujinx (Nintendo Switch)
+Ryujinx บน SteamOS
+Ryujinx บน Windows
+สคัมเอ็มวี
+สคัมเอ็มวี
+ScummVM บน SteamOS
+ซูเปอร์โมเดล (เซก้า โมเดล 3)
+ซูเปอร์โมเดล (เซก้า โมเดล 3)
+Supermodel บน SteamOS
+ShadPS4 (Sony Playstation 4)
+ShadPS4 (Sony Playstation 4)
+ShadPS4 บน SteamOS
+ShadPS4 บน Windows
+Vita3K (PlayStation Vita)
+Vita3K (PlayStation Vita)
+Vita3K บน SteamOS
+Xemu (เครื่อง Xbox รุ่นแรก)
+Xemu (เครื่อง Xbox รุ่นแรก)
+Xemu บน SteamOS
+Xenia (Xbox 360)
+Xenia (Xbox 360)
+Xenia บน SteamOS
+ยูซุ (นินเทนโด สวิตช์)
+ยูซุ (นินเทนโด สวิตช์)
+Yuzu บน SteamOS
+ยูซุบน Windows
+การจัดการการบันทึก
+การจัดการการบันทึก
+การจัดการไฟล์บันทึกเกมบน SteamOS
+การจัดการไฟล์บันทึกบน Windows
+การจัดการไฟล์
+การจัดการไฟล์
+การจัดการไฟล์บน SteamOS
+การจัดการไฟล์บน Windows
+ผลงานสร้างสรรค์ของชุมชน
+ผลงานสร้างสรรค์ของชุมชน
+EmuDeck สำหรับ SteamOS
+EmuDeck สำหรับ SteamOS
+ผลงานสร้างสรรค์ของชุมชน
+การกำหนดค่าเกมชุมชน
+รอมแฮ็กและแพ็กพื้นผิวที่คัดสรรมาอย่างดี
+เคล็ดลับและเทคนิคสำหรับ Linux
+ปิโก-8
+ซูเปอร์สแมช บราเธอร์ส
+การจำลองจากบุคคลที่สาม (การถอดรหัสและเกม)
+เครื่องมือและคู่มือ
+อีมูเด็คสำหรับ Windows
+อีมูเด็คสำหรับ Windows
+ผลงานสร้างสรรค์ของชุมชน
+ปลั๊กอิน EmuDeck
+ปลั๊กอิน EmuDeck
+ปลั๊กอิน EmuDeck
+ปลั๊กอิน EmuDeck
+DeckyControls
+ความสำเร็จ
+เมตาเด็ค
+การมีส่วนร่วมในการพัฒนา EmuDeck
+การมีส่วนร่วมในการพัฒนา EmuDeck
+วิธีร่วมบริจาค
+สารบัญ
+สารบัญ RetroArch
+เริ่มต้นใช้งาน RetroArch
+การกำหนดค่า RetroArch
+ใช้งานร่วมกับ
+ตำแหน่งโฟลเดอร์ RetroArch
+วิธีการอัปเดต RetroArch และ Core ต่างๆ
+วิธีการอัปเดต RetroArch
+วิธีการอัปเดต RetroArch Cores
+วิธีเรียกใช้งาน RetroArch ในโหมดเดสก์ท็อป
+การวิเคราะห์การยกเลิกสิทธิ์
+ปุ่มลัด RetroArch
+รายชื่อคอร์ RetroArch ที่ EmuDeck ใช้
+ปัญหาที่พบได้ทั่วไป
+Banjo-Kazooie: ข้อความที่สลับตำแหน่ง
+เคล็ดลับและเทคนิคสำหรับ RetroArch
+วิธีเพิ่มประสิทธิภาพการจัดเก็บข้อมูล (เครื่องมือบีบอัดข้อมูล)
+วิธีจัดการดิสก์หลายแผ่น
+วิธีการตั้งค่าโหมดผู้เล่นหลายคน
+วิธีเปลี่ยนการตั้งค่าทั่วไปของ RetroArch
+วิธีเปลี่ยนปุ่มลัดใน RetroArch
+วิธีเปลี่ยนเชเดอร์
+วิธีดาวน์โหลด/อัปเดตเชเดอร์
+วิธีการใช้เชเดอร์ใหม่หากมีการใช้เชเดอร์อยู่แล้ว
+วิธีการใช้เชเดอร์ หากยังไม่ได้ใช้เชเดอร์มาก่อน
+ยกเลิกลำดับความสำคัญ
+วิธีเปลี่ยนรูปแบบการจัดวางปุ่มควบคุมในแต่ละเกม
+วิธีการเปลี่ยนรูปแบบการจัดวางปุ่มควบคุมสำหรับระบบ
+วิธีตั้งค่าเกมแบบรายเกม
+วิธีการเปลี่ยนการตั้งค่าแบบแยกแต่ละคอร์
+วิธีย้อนกลับ RetroArch ไปยังเวอร์ชันเก่ากว่า
+วิธีการตั้งค่าภาษา
+อินเทอร์เฟซผู้ใช้
+ในเกม
+คอร์ RetroArch
+ฟลายแคสต์
+วิธีการติดตั้งพื้นผิวแบบกำหนดเองสำหรับ Flycast
+ฟิวส์
+วิธีการตั้งค่าการควบคุมสำหรับฟิวส์
+เมลอนดีเอส
+วิธีใช้งานแทร็กแพดสำหรับหน้าจอสัมผัส
+มูเพน64พลัส-เน็กซ์
+วิธีการติดตั้งพื้นผิวแบบกำหนดเองสำหรับ Mupen64Plus-Next
+คำนำ
+เอชที
+เอชทีเอส
+PNG
+เรโทรอาร์ช
+วิธีการเปลี่ยนไปใช้ปลั๊กอิน Parallel-RDP
+เนโกะ โปรเจ็กต์ II ไค
+การกำหนดค่าการควบคุม
+PPSSPP RetroArch Core
+วิธีการดาวน์โหลดไฟล์เนื้อหา (จำเป็น)
+พีเอ็กซ์68เค
+ส่วนที่ 1
+RetroArch เป็นโอเพนซอร์สและเฟรมเวิร์กสำหรับส่วนหน้าของโปรแกรมจำลอง (emulator) ที่ใช้งานได้บนหลายแพลตฟอร์ม
+เว็บไซต์: https://www.retroarch.com/
+
+GitHub: https://github.com/libretro/RetroArch
+
+วิกิของ RetroArch: https://docs.libretro.com/
+
+คำถามที่พบบ่อยเกี่ยวกับ RetroArch: https://www.retroarch.com/?page=faq
+
+สารบัญ RetroArch
+เริ่มต้นใช้งาน RetroArch
+
+การกำหนดค่า
+ตำแหน่งโฟลเดอร์ RetroArch
+วิธีการอัปเดต RetroArch และ Core ต่างๆ
+วิธีเรียกใช้งาน RetroArch ในโหมดเดสก์ท็อป
+การวิเคราะห์การยกเลิกสิทธิ์
+ปุ่มลัด
+รายชื่อคอร์ RetroArch ที่ Emudeck ใช้
+ปัญหาที่พบได้ทั่วไป
+
+Banjo-Kazooie: ข้อความที่สลับตำแหน่ง
+เคล็ดลับและเทคนิคสำหรับ RetroArch
+
+วิธีเพิ่มประสิทธิภาพการจัดเก็บข้อมูล (เครื่องมือบีบอัดข้อมูล)
+วิธีจัดการดิสก์หลายแผ่น
+วิธีการตั้งค่าโหมดผู้เล่นหลายคน
+วิธีเปลี่ยนการตั้งค่าทั่วไปของ RetroArch
+วิธีเปลี่ยนปุ่มลัดใน RetroArch
+วิธีเปลี่ยนเชเดอร์
+วิธีดาวน์โหลด/อัปเดตเชเดอร์
+วิธีการใช้เชเดอร์ใหม่หากมีการใช้เชเดอร์อยู่แล้ว
+วิธีการใช้เชเดอร์ หากยังไม่ได้ใช้เชเดอร์มาก่อน
+ยกเลิกลำดับความสำคัญ
+วิธีเปลี่ยนรูปแบบการจัดวางปุ่มควบคุมในแต่ละเกม
+วิธีการเปลี่ยนรูปแบบการจัดวางปุ่มควบคุมสำหรับระบบ
+วิธีตั้งค่าเกมแบบรายเกม
+วิธีการเปลี่ยนการตั้งค่าแบบแยกแต่ละคอร์
+วิธีย้อนกลับ RetroArch ไปยังเวอร์ชันเก่ากว่า
+วิธีการตั้งค่าภาษา
+วิธีการสร้างไฟล์ CUE
+วิธีการตั้งค่า PKHeX
+วิธีการติดตั้งโปรแกรมสุ่มโปเกมอนแบบสากล
+วิธีใช้งาน ROM Hacks
+คอร์ RetroArch
+
+ฟลายแคสต์
+วิธีการติดตั้งพื้นผิวแบบกำหนดเองสำหรับ Flycast
+ฟิวส์
+วิธีการตั้งค่าการควบคุมสำหรับฟิวส์
+เมลอนดีเอส
+วิธีใช้งานแทร็กแพดสำหรับหน้าจอสัมผัส
+มูเพน64พลัส-เน็กซ์
+วิธีการติดตั้งพื้นผิวแบบกำหนดเองสำหรับ Mupen64Plus-Next
+วิธีการเปลี่ยนไปใช้ปลั๊กอิน Parallel-RDP
+เนโกะ โปรเจ็กต์ II ไค
+การกำหนดค่าการควบคุม
+PPSSPP RetroArch Core
+วิธีการดาวน์โหลดไฟล์เนื้อหา (จำเป็น)
+พีเอ็กซ์68เค
+ส่วนที่ 1
+เริ่มต้นใช้งาน RetroArch
+กลับสู่ด้านบน
+
+การกำหนดค่า RetroArch
+กลับสู่ด้านบน
+
+ประเภทของอีมูเลเตอร์: Flatpak
+ตำแหน่งการตั้งค่า:/home/deck/.var/app/org.libretro.RetroArch/config/retroarch
+สถานที่จัดเก็บ:Emulation/storage/retroarch
+ROMs: โปรดดูเอกสารสรุปคำ แนะนำ
+BIOS: โปรดดูเอกสารสรุปคำ แนะนำ
+บันทึก:
+ลิงก์สัญลักษณ์:Emulation/saves/retroarch/saves
+ตำแหน่งเป้าหมาย:/home/deck/.var/app/org.libretro.RetroArch/config/retroarch/saves/
+บันทึกสถานะ:
+ลิงก์สัญลักษณ์:Emulation/saves/retroarch/states
+ตำแหน่งเป้าหมาย:/home/deck/.var/app/org.libretro.RetroArch/config/retroarch/states/
+ที่ตั้งระบบ:Emulation/bios
+ในวิกิหรือคู่มือของ Libretro อาจกล่าวถึงการวางไฟล์ของคุณลงในSystemโฟลเดอร์ หรือการสร้างโฟลเดอร์ในSystemไดเร็กทอรี แม้ว่าEmulation/biosจะไม่ได้ตั้งชื่อไว้Systemแต่ให้ถือว่ามันเป็นSystemโฟลเดอร์สำหรับ RetroArch
+ตัวอย่างเช่น หน้าวิกิของ Libretro สำหรับ Dreamcast คาดหวังให้คุณสร้างdcโฟลเดอร์ในไดเร็กทอรีระบบของ RetroArch แต่ให้สร้างdcโฟลเดอร์ในEmulation/biosและวางไฟล์ที่จำเป็นทั้งหมดไว้ในนั้น แทนEmulation/bios/dc
+ตัวอย่าง Dreamcast
+หมายเหตุ: ~/.varโฟลเดอร์นี้เป็นโฟลเดอร์ที่มองไม่เห็นโดยค่าเริ่มต้น ใน Dolphin (โปรแกรมจัดการไฟล์) ให้คลิกเมนูแฮมเบอร์เกอร์ที่มุมบนขวา แล้วคลิกShow Hidden Filesเพื่อดูโฟลเดอร์เหล่านี้
+
+ใช้งานร่วมกับ
+ตัวจัดการ Steam Rom
+EmulationStation-DE
+ตำแหน่งโฟลเดอร์ RetroArch
+กลับสู่ด้านบน
+
+ตำแหน่งที่ตั้งไฟล์เหล่านี้ใช้ได้ไม่ว่าคุณจะเลือกติดตั้ง EmuDeck ไว้ที่ใด (ใน SSD ภายในเครื่อง ในการ์ด SD หรือที่อื่น ๆ) ไฟล์การกำหนดค่าอีมูเลเตอร์บางไฟล์จะอยู่ใน SSD ภายในเครื่องตามที่แสดงด้านล่าง
+
+$HOMEหมายถึงโฟลเดอร์โฮมของคุณ หากคุณใช้งานบน Steam Deck โฟลเดอร์นี้จะมีชื่อ/home/deck(คุณอาจไม่เห็นdeckในเส้นทางไฟล์เมื่อใช้ตัวจัดการไฟล์)
+
+เส้นทางที่ขึ้นต้นด้วยEmulation/..จะตรงกับตำแหน่งที่ติดตั้ง EmuDeck ของคุณ หากคุณติดตั้งบนการ์ด SD เส้นทางของคุณอาจเป็น/run/media/mmcblk0p1/Emulation/roms/..หากคุณติดตั้งบน SSD ภายในเครื่อง เส้นทางของคุณอาจเป็น/home/deck/Emulation/roms/..
+
+หมายเหตุ:โฟลเดอร์ที่มี.( .var, .local, .config, เป็นต้น) นำหน้าจะถูกซ่อนไว้โดยค่าเริ่มต้น ใน Dolphin (โปรแกรมจัดการไฟล์) ให้คลิกเมนูแฮมเบอร์เกอร์ที่มุมบนขวา แล้วคลิกShow Hidden Filesเพื่อดูโฟลเดอร์เหล่านี้
+
+$HOME/.var/app/org.libretro.RetroArch/config/retroarch
+
+
+org.libretro.RetroArch
+├── cache
+├── config
+│   ├── pulse
+│   └── retroarch
+│       ├── assets
+│       ├── autoconfig
+│       ├── cheats
+│       ├── config
+│       │   ├── Beetle Cygne
+│       │   ├── Beetle Lynx
+│       │   ├── Beetle NeoPop
+│       │   ├── Beetle PCE
+│       │   ├── Beetle PCE Fast
+│       │   ├── Beetle PSX
+│       │   ├── Beetle PSX HW
+│       │   ├── Beetle Saturn
+│       │   ├── Beetle SuperGrafx
+│       │   ├── Beetle WonderSwan
+│       │   ├── blueMSX
+│       │   ├── bsnes-hd beta
+│       │   ├── dolphin_emu
+│       │   ├── DOSBox-pure
+│       │   ├── DOSBox Pure
+│       │   ├── FinalBurn Neo
+│       │   ├── Flycast
+│       │   ├── Gambatte
+│       │   ├── Gearsystem
+│       │   ├── Genesis Plus GX
+│       │   ├── Handy
+│       │   ├── Hatari
+│       │   ├── Kronos
+│       │   ├── MAME
+│       │   ├── MAME 2003-Plus
+│       │   ├── melonDS
+│       │   ├── Mesen
+│       │   ├── mGBA
+│       │   ├── Mupen64Plus-Next
+│       │   ├── NeoCD
+│       │   ├── Nestopia
+│       │   ├── ParaLLEl N64
+│       │   ├── PicoDrive
+│       │   ├── PPSSPP
+│       │   ├── PUAE
+│       │   ├── remaps
+│       │   │   └── Gambatte
+│       │   ├── SameBoy
+│       │   ├── Snes9x
+│       │   ├── Stella
+│       │   ├── SwanStation
+│       │   ├── VICE x64
+│       │   ├── VICE x64sc
+│       │   ├── VICE xscpu64
+│       │   ├── VICE xvic
+│       │   ├── YabaSanshiro
+│       │   └── Yabause
+│       ├── cores
+│       ├── database
+│       │   └── rdb
+│       ├── downloads
+│       │   └── core_backups
+│       │       ├── 81_libretro
+│       │       ├── a5200_libretro
+│       │       ├── atari800_libretro
+│       │       ├── bluemsx_libretro
+│       │       ├── bsnes_hd_beta_libretro
+│       │       ├── bsnes_libretro
+│       │       ├── cap32_libretro
+│       │       ├── citra2018_libretro
+│       │       ├── citra_libretro
+│       │       ├── desmume_libretro
+│       │       ├── dosbox_core_libretro
+│       │       ├── dosbox_svn_libretro
+│       │       ├── easyrpg_libretro
+│       │       ├── fbalpha2012_cps1_libretro
+│       │       ├── fbalpha2012_cps2_libretro
+│       │       ├── fbalpha2012_cps3_libretro
+│       │       ├── fbalpha2012_neogeo_libretro
+│       │       ├── fbneo_libretro
+│       │       ├── fceumm_libretro
+│       │       ├── flycast_libretro
+│       │       ├── fmsx_libretro
+│       │       ├── gambatte_libretro
+│       │       ├── genesis_plus_gx_libretro
+│       │       ├── genesis_plus_gx_wide_libretro
+│       │       ├── gpsp_libretro
+│       │       ├── handy_libretro
+│       │       ├── hatari_libretro
+│       │       ├── kronos_libretro
+│       │       ├── lutro_libretro
+│       │       ├── mame2000_libretro
+│       │       ├── mame2003_plus_libretro
+│       │       ├── mame2010_libretro
+│       │       ├── mame_libretro
+│       │       ├── mednafen_lynx_libretro
+│       │       ├── mednafen_ngp_libretro
+│       │       ├── mednafen_pce_fast_libretro
+│       │       ├── mednafen_pce_libretro
+│       │       ├── mednafen_pcfx_libretro
+│       │       ├── mednafen_psx_hw_libretro
+│       │       ├── mednafen_psx_libretro
+│       │       ├── mednafen_saturn_libretro
+│       │       ├── mednafen_supergrafx_libretro
+│       │       ├── mednafen_vb_libretro
+│       │       ├── mednafen_wswan_libretro
+│       │       ├── melonds_libretro
+│       │       ├── mesen_libretro
+│       │       ├── mgba_libretro
+│       │       ├── mu_libretro
+│       │       ├── mupen64plus_next_libretro
+│       │       ├── neocd_libretro
+│       │       ├── nestopia_libretro
+│       │       ├── np2kai_libretro
+│       │       ├── nxengine_libretro
+│       │       ├── o2em_libretro
+│       │       ├── parallel_n64_libretro
+│       │       ├── pcsx2_libretro
+│       │       ├── pcsx_rearmed_libretro
+│       │       ├── picodrive_libretro
+│       │       ├── ppsspp_libretro
+│       │       ├── prboom_libretro
+│       │       ├── prosystem_libretro
+│       │       ├── puae_libretro
+│       │       ├── px68k_libretro
+│       │       ├── quasi88_libretro
+│       │       ├── quicknes_libretro
+│       │       ├── race_libretro
+│       │       ├── same_cdi_libretro
+│       │       ├── scummvm_libretro
+│       │       ├── snes9x2010_libretro
+│       │       ├── snes9x_libretro
+│       │       ├── stella2014_libretro
+│       │       ├── stella_libretro
+│       │       ├── swanstation_libretro
+│       │       ├── tic80_libretro
+│       │       ├── tyrquake_libretro
+│       │       ├── vbam_libretro
+│       │       ├── vba_next_libretro
+│       │       ├── vecx_libretro
+│       │       ├── vice_x128_libretro
+│       │       ├── vice_x64_libretro
+│       │       ├── vice_x64sc_libretro
+│       │       ├── vice_xscpu64_libretro
+│       │       ├── vice_xvic_libretro
+│       │       ├── vitaquake2_libretro
+│       │       ├── vitaquake2-rogue_libretro
+│       │       ├── vitaquake2-xatrix_libretro
+│       │       ├── vitaquake2-zaero_libretro
+│       │       ├── vitaquake3_libretro
+│       │       ├── wasm4_libretro
+│       │       └── yabause_libretro
+│       ├── filters
+│       │   ├── audio
+│       │   └── video
+│       ├── layouts
+│       ├── logs
+│       ├── overlay
+│       ├── overlays
+│       │   └── pegasus
+│       ├── playlists
+│       │   └── logs
+│       │       ├── Beetle Lynx
+│       │       ├── Beetle PCE
+│       │       ├── Beetle PSX
+│       │       ├── Beetle Saturn
+│       │       ├── Beetle SuperGrafx
+│       │       ├── blueMSX
+│       │       ├── Gambatte
+│       │       ├── Handy
+│       │       ├── MAME (Git)
+│       │       ├── melonDS
+│       │       ├── mGBA
+│       │       ├── Mupen64Plus-Next
+│       │       ├── ParaLLEl N64
+│       │       └── Snes9x
+│       ├── records
+│       ├── records_config
+│       ├── saves
+│       │   └── mame
+│       │       ├── cfg
+│       │       └── nvram
+│       ├── screenshots
+│       ├── shaders
+│       │   └── shaders_slang
+│       │       ├── anamorphic
+│       │       ├── anti-aliasing
+│       │       ├── auto-box
+│       │       ├── bezel
+│       │       ├── blurs
+│       │       ├── border
+│       │       ├── cel
+│       │       ├── crt
+│       │       ├── cubic
+│       │       ├── ddt
+│       │       ├── deblur
+│       │       ├── denoisers
+│       │       ├── dithering
+│       │       ├── eagle
+│       │       ├── film
+│       │       ├── fsr
+│       │       ├── gpu
+│       │       ├── handheld
+│       │       ├── hdr
+│       │       ├── hqx
+│       │       ├── include
+│       │       ├── interpolation
+│       │       ├── linear
+│       │       ├── misc
+│       │       ├── motionblur
+│       │       ├── motion-interpolation
+│       │       ├── nedi
+│       │       ├── nes_raw_palette
+│       │       ├── nnedi3
+│       │       ├── ntsc
+│       │       ├── omniscale
+│       │       ├── pal
+│       │       ├── presets
+│       │       ├── procedural
+│       │       ├── quad
+│       │       ├── reshade
+│       │       ├── sabr
+│       │       ├── scalefx
+│       │       ├── scalehq
+│       │       ├── scalenx
+│       │       ├── scanlines
+│       │       ├── sharpen
+│       │       ├── spec
+│       │       ├── stereoscopic-3d
+│       │       ├── test
+│       │       ├── vhs
+│       │       ├── warp
+│       │       ├── windowed
+│       │       ├── xbr
+│       │       ├── xbrz
+│       │       ├── xsal
+│       │       └── xsoft
+│       ├── states
+│       ├── system
+│       └── thumbnails
+└── data
+วิธีการอัปเดต RetroArch และ Core ต่างๆ
+กลับสู่ด้านบน
+
+วิธีการอัปเดต RetroArch
+อัปเดตผ่านDiscover(ไอคอนตะกร้าสินค้า)
+ผ่านทางUpdate your Emulators & Toolsส่วนบนManage Emulatorsหน้าเว็บในEmuDeckแอปพลิเคชัน
+วิธีการอัปเดต RetroArch Cores
+เปิดRetroArch
+เปิดMain Menu
+เลื่อนลงและเลือกOnline Updater
+เลือกUpdate Installed Cores
+ภาพประกอบอ้างอิง:
+
+วิธีเรียกใช้งาน RetroArch ในโหมดเดสก์ท็อป
+กลับสู่ด้านบน
+
+วิธีเรียกใช้งาน RetroArch ในโหมดเดสก์ท็อป
+
+เปิดใช้งานRetroArchจากตัวเรียกใช้งานแอปพลิเคชัน (ไอคอน Steam Deck ที่มุมล่างซ้ายของแถบงาน)
+เรียกใช้สคริปต์จากEmulation/tools/launchers,retroarch.sh
+เปิดใช้งานอีมูเลเตอร์Steamหลังจากเพิ่มผ่านEmulatorsตัวแยกวิเคราะห์ในSteam Rom Manager
+การวิเคราะห์การยกเลิกสิทธิ์
+กลับสู่ด้านบน
+
+ทั่วโลก = ทุกสิ่งทุกอย่าง
+คอร์ = ทุกอย่างที่ทำงานโดยใช้คอร์เฉพาะตัวใดตัวหนึ่ง
+ไดเร็กทอรีเนื้อหา = ไฟล์ ROM ใดๆ ก็ได้ที่อยู่ในไดเร็กทอรีที่กำหนด
+สิ่งเหล่านี้ใช้สำหรับเชเดอร์ที่ใช้ใน EmuDeck
+เกม = ไฟล์ ROM นั้นๆ
+เมื่อคุณเลื่อนลงมาในรายการนี้ ลำดับความสำคัญก็จะเพิ่มขึ้น ดังนั้นหากคุณทำเพียงแค่ตั้งค่าพรีเซ็ต shader หลัก มันจะไม่ไปแทนที่พรีเซ็ตไดเร็กทอรีเนื้อหาที่ถูกใช้งานอยู่แล้ว
+
+สำหรับข้อมูลเพิ่มเติม: https://docs.libretro.com/guides/overrides/
+
+ปุ่มลัด RetroArch
+กลับสู่ด้านบน
+
+ปุ่มลัด	เรโทรอาร์ช
+เมนูแบบรวดเร็ว	L3+ R3หรือSelect+R3
+บันทึกสถานะ	Select+R1
+สถานะการโหลด	Select+L1
+ช่องบันทึกสถานะถัดไป	Select+DPAD Right
+ช่องบันทึกสถานะก่อนหน้า	Select+DPAD Left
+เร่งไปข้างหน้า	Select+R2
+ย้อนกลับ	Select+L2
+หยุด/เล่น	Select+A
+ภาพหน้าจอ	Select+B
+สลับดิสก์	Select+Y
+สลับการแสดงค่า FPS	Select+X
+รีเซ็ตการจำลอง	Select+L3
+หยุดการจำลอง	Select+Start
+ปิด/เปิดฝา (นินเทนโด DS)	L3
+สลับการแสดงผลล่วงหน้า	Select+DPad Up
+Blow Mic (Nintendo DS)	L2
+สลับรูปแบบการแสดงผลหน้าจอ (Nintendo DS)	R2
+บันทึก:
+
+ภาพหน้าจอจะถูกบันทึกไว้ใน:/home/deck/.var/app/org.libretro.RetroArch/config/retroarch/screenshots
+ปุ่มลัด นี้Blow Micสร้างเสียงรบกวนสีขาวเท่านั้น ไม่สามารถใช้เพื่อพูดใส่ไมโครโฟนของ Steam Deck ได้ เสียงรบกวนสีขาวอาจไม่แรงพอที่จะช่วยให้เล่นเกมบางเกมดำเนินต่อไปได้
+การจัดวางปุ่มบนดาดฟ้าเรือไอน้ำ
+รายชื่อคอร์ RetroArch ที่ EmuDeck ใช้
+กลับสู่ด้านบน
+
+คอนโซล/ระบบ	RetroArch Core (คลิกเพื่ออ่านบทความใน Libretro)
+อามิกา	เรโทรอาร์ช พียูเออี
+อามิกา 600	เรโทรอาร์ช พียูเออี
+อามิกา 1200	เรโทรอาร์ช พียูเออี
+อามิกา ซีดี32	เรโทรอาร์ช พียูเออี
+แอมสตราด ซีพีซี	เรโทรอาร์ช คาปริซ32
+อาตาริ 2600	เรโทรอาร์ช สเตลล่า
+อาตารี ลินซ์	เรโทรอาร์ช สเตลล่า
+บันไดวันเดอร์สวอน	เรโทรอาร์ช บีทเทิล ไซน์
+บันได วันเดอร์สวอน คัลเลอร์	เรโทรอาร์ช บีทเทิล ไซน์
+คอมโมดอร์ 16	เรโทรอาร์ช ไวซ์
+คอมโมดอร์ 64	เรโทรอาร์ช ไวซ์
+คอมโมดอร์ VIC-20	เรโทรอาร์ช ไวซ์
+ดูม	เรโทรอาร์ช พรูม
+ดีเอส	RetroArch DOSBox Pure
+อีซี่อาร์พีจี	เรโทรอาร์ช อีซี่อาร์พี
+ไฟนอลเบิร
 
 <!DOCTYPE html>
 <html class="no-js" lang="en-US">
