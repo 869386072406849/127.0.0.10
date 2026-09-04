@@ -1,6 +1,8 @@
 https://github.com/869386072406849
 https://www.ago.go.th/oagsite/
-
+https://wikimedia-pea.jimdofree.com/
+https://wwwpea.wordpress.com/
+https://als.wikipedia.org/w/index.php?title=Thailand&oldid=1088301
 # 127.0.0.10
 ```
 ประกาศ: หากคุณประสบปัญหาเกี่ยวกับการอัปเดตล่าสุด โปรดอ่านบทความแก้ไขปัญหาล่าสุดในบล็อก
